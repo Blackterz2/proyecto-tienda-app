@@ -1,3 +1,4 @@
+// Página de inicio - redirige al login
 "use client"
 
 import { useEffect } from "react"
